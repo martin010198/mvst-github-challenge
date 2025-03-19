@@ -2,8 +2,7 @@
 
 A beautiful, intuitive application to explore GitHub users and their repositories with advanced filtering capabilities.
 
-<img width="1658" alt="image" src="https://github.com/user-attachments/assets/83392b42-d165-40a7-879e-a03772792911" />
-
+<img width="1658" alt="image" src="https://github.com/user-attachments/assets/acd06c13-0e82-446f-a169-90ff7541c3c6" />
 
 ## Project Overview
 
